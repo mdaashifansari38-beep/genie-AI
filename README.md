@@ -13,4 +13,4 @@ Genie AI is a Python-based voice controlled assistant.
 Python, SpeechRecognition, Pyttsx3, PyAutoGUI
 
 ## Author:
-Student Project - BCA
+Md Aashif Ansari 
